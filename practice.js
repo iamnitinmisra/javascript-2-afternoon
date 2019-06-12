@@ -127,7 +127,7 @@ user2.email = "bryan.smith@devmounta.in"
 */
 
 //Code Here
-let methodCollection = {};
+
 
 /*
   Now add two methods (functions that are properties on objects) to your methodCollection object.
